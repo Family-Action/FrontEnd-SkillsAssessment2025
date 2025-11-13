@@ -33,7 +33,7 @@ Build a simple booking interface for a counselling service where users can view 
    * Works well on both desktop and mobile
 
 #### Bonus Points: 
- * Implement a filter to show only available days 
+ * Implement a filter to show only available slots
  * Add Animation ie Framer Motion Animations, Toast Notifications, Slot Status  
  * Indicator, Dark Mode 
  * Use useReducer to manage global state 
