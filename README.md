@@ -83,7 +83,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Submission:
 
- zip the file
+ Zip the folder and Email
 
 ## License
 
