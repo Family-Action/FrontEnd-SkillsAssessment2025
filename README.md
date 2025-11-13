@@ -12,7 +12,7 @@ Build a simple booking interface for a counselling service where users can view 
 - Next.js (latest stable) / Typescript 
 - UI Library: Shadcn UI 
 - Styling: Tailwind CSS 
-- Optional State Management (bonus): useReducer or any other
+- State Management: useReducer or any other
 
 
 #### Functional Requirements: 
