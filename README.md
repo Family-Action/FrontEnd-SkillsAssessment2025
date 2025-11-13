@@ -41,7 +41,8 @@ Build a simple booking interface for a counselling service where users can view 
 
 #### Skills Assessed 
 
- * Component composition and reuse 
+ * Component composition and reuse
+ * TypeScript 
  * State handling and data flow 
  * UI/UX best practices 
  * Working with Tailwind and Shadcn UI 
