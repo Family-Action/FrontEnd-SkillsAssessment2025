@@ -52,9 +52,8 @@ Build a simple booking interface for a counselling service where users can view 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ```bash
- git clone https:xxxx
+npm install
 
-# once downloaded:
 npm run dev
 # or
 yarn dev
