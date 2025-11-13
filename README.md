@@ -19,7 +19,7 @@ Build a simple booking interface for a counselling service where users can view 
 
 1. Display Available Slots 
    * Show a weekly calendar grid (7 days × 8 time slots per day, e.g. 9am–5pm)
-   * use the booking-data.json provided 
+   * use the booking-data.ts provided 
 1. Select a Slot 
    * User can select a single available slot 
 1. Confirm Booking 
