@@ -1,4 +1,4 @@
-# Front End Developer – Home Task  
+# Front End Developer - Task 
 
 #### Project Title:  
 “Simple Booking Interface” – Front-End Task Using Next.js + Shadcn UI
