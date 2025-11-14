@@ -34,7 +34,8 @@ Build a simple booking interface for a counselling service where users can view 
 
 #### Bonus Points: 
  * Implement a filter to show only available slots
- * Add Animation ie Framer Motion Animations, Toast Notifications, Slot Status,Indicator, Dark Mode 
+ * Add Animation
+ * Dark Mode 
  * Use useReducer to manage global state 
  * Unit Tests 
 
